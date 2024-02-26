@@ -1,3 +1,4 @@
+# I get help from ChatGPT on how to solve the matrix problems using numpy and scipy.
 import numpy as np
 from scipy.linalg import solve
 

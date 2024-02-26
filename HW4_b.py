@@ -1,3 +1,4 @@
+# I get help from ChapGPT on how to solve the equations using numpy and scipy and plot the point where the two equations intersect
 import numpy as np
 from scipy.optimize import fsolve
 import matplotlib.pyplot as plt

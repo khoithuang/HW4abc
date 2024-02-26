@@ -1,3 +1,4 @@
+# I get help from ChatGPT on especially how to plot the solution and how use the numpy, scipy, and matplotlib.
 import numpy as np
 from scipy import stats
 import matplotlib.pyplot as plt
